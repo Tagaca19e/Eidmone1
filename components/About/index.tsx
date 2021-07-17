@@ -58,6 +58,7 @@ export const About: FC = () => {
 				</div>
 			</div>
 			<Stack />
+			
 		</section>
 	);
 };
